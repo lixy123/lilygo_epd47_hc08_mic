@@ -32,4 +32,4 @@ https://github.com/Links2004/arduinoWebSockets<br/>
 
 <b>四.补充</b> <br/>
 1.不支持并发，一次只能一个客户端连接.<br/>
-2.用电约在50-80ma,不适合仅用电池供电.<br/>
+2.用电约在70ma,不适合仅用电池供电.<br/>
