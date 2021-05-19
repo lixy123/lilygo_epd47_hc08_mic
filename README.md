@@ -20,8 +20,8 @@ GND   GND<br/>
 https://github.com/espressif/arduino-esp32 版本:1.0.6<br/>
 https://github.com/me-no-dev/ESPAsyncWebServer <br/>
 https://github.com/Links2004/arduinoWebSockets<br/>
-开发板选择：ESP32 DEV Module <br/>   
-选择好端口执行程序编译,烧录
+开发板选择：ESP32 DEV Module <br/>
+选择好端口执行程序编译,烧录<br/>
 注：<br/>
 1.编译代码前，修改代码中的路由器连接参数ssid,password,connectwifi函数的静态IP地址<br/>
 2.烧录完程序后，用Arduino插件 ESP32 Sketch upload 执行Data目录上传到spiffs (Arduino插件资料:https://github.com/me-no-dev/arduino-esp32fs-plugin)<br/>
