@@ -26,10 +26,10 @@ https://github.com/Links2004/arduinoWebSockets<br/>
 1.编译代码前，修改代码中的路由器连接参数ssid,password,connectwifi函数的静态IP地址<br/>
 2.烧录完程序后，用Arduino插件 ESP32 Sketch upload 执行Data目录上传到spiffs (Arduino插件资料:https://github.com/me-no-dev/arduino-esp32fs-plugin)<br/>
 
-<b>三.用法</b> <br/>
+<b>四.用法</b> <br/>
 1.墨水屏上电开机<br/>
 2.用手机或PC打开网页浏览器(浏览器要支持html5例如chrome,需要同一局域网),输入 http://192.168.1.101 会神奇的听到墨水屏传来的 mic采集到的声音.<br/>
 
-<b>四.补充</b> <br/>
+<b>五.补充</b> <br/>
 1.不支持并发，一次只能一个客户端连接.<br/>
 2.用电约在70ma,不适合仅用电池供电.<br/>
