@@ -1,8 +1,8 @@
 # lilygo_epd47_hc08_mic
-epd47 墨水屏远程麦克风 （远程wifi拾音）<br/>
+epd47 墨水屏无线wifi拾音监听器<br/>
 
 <b>一.功能</b> <br/>
-利用本程序，可以使epd47墨水屏成为远程麦克风, 利用wifi联网进行麦克风拾音监听<br/>
+利用本程序，可以使epd47墨水屏成为无线wifi拾音监听器<br/>
 
 <b>二.硬件</b> <br/>
 1.LILYGO® T5-4.7 inch E-paper ESP32 1块 <br/>
